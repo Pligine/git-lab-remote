@@ -1,1 +1,1 @@
-print("Updated from NEW_ALICE")
+print("A remote change")
