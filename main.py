@@ -1,1 +1,1 @@
-print("Hello from ALICE and BOB")
+print("Updated from NEW_ALICE")
